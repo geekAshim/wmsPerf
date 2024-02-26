@@ -1,0 +1,11 @@
+displayName: wmsTest
+testPlan: wmsTest.jmx
+description: wmsTest_POC
+engineInstances: 1
+testId: 1cfedab3-4ddc-4556-ae31-e3bcc0c133ed
+testType: JMX
+splitAllCSVs: False
+failureCriteria: []
+autoStop:
+  errorPercentage: 90
+  timeWindow: 60
